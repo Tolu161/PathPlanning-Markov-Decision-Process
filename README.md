@@ -1,7 +1,9 @@
-# MDP-PathPlanning-
-COMP 3004 Coursework Coppeliasim code 
+# Path Planning with Markov Decision Processes
+
+Within Probablistic Frameworks which is more suitable for optimised path planning policy or value iteration. 
 
 This study evaluates the effectiveness of Markov Decision Process (MDP) strategies, specifically Policy Iteration and Value Iteration, for improving path planning in Search and Rescue (SAR) operations using autonomous mobile robots. The research explored variations in performance by manipulating environmental configurations and reward placements within a Gridworld simulation. 
+
 ![image](https://github.com/user-attachments/assets/23217b5c-f5dd-4bea-a9b8-53a2169aa50a)
 
 ![image](https://github.com/user-attachments/assets/43eae4e0-fe21-4ac2-8d3b-21dcaea38f31)
